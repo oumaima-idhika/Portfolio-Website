@@ -1,0 +1,24 @@
+
+               
+                .ityped-cursor{
+                    animation: blink 1s infinite;
+                    color : #66faff ;
+                }
+                @keyframes blink {
+                    50%{
+                        opacity:1;
+                    }
+                    100%{
+                        opacity:0;
+                    }
+                    
+                }
+                .vertical-timeline{
+                    height: 380px;
+                    width: 10px;
+                    
+                }
+               
+                .title-timeline{
+                    color:#66faff;
+                }
